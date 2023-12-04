@@ -1,3 +1,4 @@
-module github.com/duydoxuan/learnPublish
+module github.com/duydoxuan/learn-go-publish
+
 
 go 1.20
