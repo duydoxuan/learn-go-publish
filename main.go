@@ -1,4 +1,4 @@
-package debugLearn
+package main
 
 import (
 	"fmt"
