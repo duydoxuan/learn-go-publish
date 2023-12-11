@@ -23,3 +23,9 @@ func LoopLearn() {
 func Add(a, b int) int {
 	return a + b
 }
+
+func main() {
+	LoopLearn()
+	sum := Add(5, 7)
+	fmt.Printf("Sum of 5 and 7 is: %d\n", sum)
+}
